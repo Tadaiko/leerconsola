@@ -1,0 +1,14 @@
+C:\Users\TNS-Informatica\Desktop\MisProyectosTopp\leerconsola\obj\Debug\net10.0\leerconsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TNS-Informatica\Desktop\MisProyectosTopp\leerconsola\obj\Debug\net10.0\leerconsola.AssemblyInfoInputs.cache
+C:\Users\TNS-Informatica\Desktop\MisProyectosTopp\leerconsola\obj\Debug\net10.0\leerconsola.AssemblyInfo.cs
+C:\Users\TNS-Informatica\Desktop\MisProyectosTopp\leerconsola\obj\Debug\net10.0\leerconsola.csproj.CoreCompileInputs.cache
+C:\Users\TNS-Informatica\Desktop\MisProyectosTopp\leerconsola\bin\Debug\net10.0\leerconsola.exe
+C:\Users\TNS-Informatica\Desktop\MisProyectosTopp\leerconsola\bin\Debug\net10.0\leerconsola.deps.json
+C:\Users\TNS-Informatica\Desktop\MisProyectosTopp\leerconsola\bin\Debug\net10.0\leerconsola.runtimeconfig.json
+C:\Users\TNS-Informatica\Desktop\MisProyectosTopp\leerconsola\bin\Debug\net10.0\leerconsola.dll
+C:\Users\TNS-Informatica\Desktop\MisProyectosTopp\leerconsola\bin\Debug\net10.0\leerconsola.pdb
+C:\Users\TNS-Informatica\Desktop\MisProyectosTopp\leerconsola\obj\Debug\net10.0\leerconsola.dll
+C:\Users\TNS-Informatica\Desktop\MisProyectosTopp\leerconsola\obj\Debug\net10.0\refint\leerconsola.dll
+C:\Users\TNS-Informatica\Desktop\MisProyectosTopp\leerconsola\obj\Debug\net10.0\leerconsola.pdb
+C:\Users\TNS-Informatica\Desktop\MisProyectosTopp\leerconsola\obj\Debug\net10.0\leerconsola.genruntimeconfig.cache
+C:\Users\TNS-Informatica\Desktop\MisProyectosTopp\leerconsola\obj\Debug\net10.0\ref\leerconsola.dll
